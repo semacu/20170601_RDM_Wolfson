@@ -45,6 +45,7 @@ Wolfson IT:
 
 Research data management:
 
+- [Lightweight data management with dtool](https://peerj.com/articles/6562/)
 - Data Tree training [tutorials](https://datatree.org.uk/)
 - Avoid data disasters [course](http://bioinformatics-core-shared-training.github.io//avoid-data-disaster/)
 - University of Cambridge - research data management [materials](http://www.data.cam.ac.uk/)
